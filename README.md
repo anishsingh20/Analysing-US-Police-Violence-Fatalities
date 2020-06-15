@@ -14,3 +14,6 @@ The dataset currently includes these types of data:
 5) Social and economic data 
 
 6) Police force policies enacted by departments Police union contract provisions Sales of DoD equipment to law enforcement agencies
+
+
+Here is the link to the Kaggle Dataset: https://www.kaggle.com/jpmiller/police-violence-in-the-us
